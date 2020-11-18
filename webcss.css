@@ -1,0 +1,121 @@
+
+@front-face{
+  font-family:'Tajawal';
+  scr: url(Tajawal-Regular.ttf):
+}
+.{
+box-sizing: border-box;
+margin:0;
+padding:0;
+direction:ltr;
+front-family:Tajawal;
+front-size: 16px;
+}
+html{
+--primary-color:#d9e4dd;
+--light-primary-color:#cdc9c3;
+--secndary_color:#555555;
+--white:#fbf7f0;
+}
+
+.navbar{
+  background-color:var(--secndary_color);
+}
+.navbar-list{
+  list-style:none;
+}
+.navbar-item{
+  display: inline-block;
+  height: 50px;
+  width:8rem;
+  line-height:50px;
+  text-align: center;
+  font-size: 20px;
+}
+.navbar-link{
+  text-decoration:none;
+  color:var(--primary-color);
+  display: block;
+}
+.navbar-item:hover{
+  background-color:#fbf7f0;
+}
+.logo{
+  padding-top: 100px;
+  padding-right:300px;
+}
+body{
+  background-color:#d9e4dd;
+}
+.up{
+  margin: 150px;
+  display: block;
+
+}
+.prod-box{
+  margin: 40px;
+overflow:hidden;
+margin:80;
+position: relative;
+float: left;
+border:3px solid var(--secndary_color);
+}
+.prod-box>img{
+max-width:100%;
+}
+.prod-trans{
+background:rgba(0, 0 , 0 , 0.6);
+width:100%;
+height:100%;
+top:0;
+left:0;
+bottom:0;
+right:0;
+position:absolute;
+opacity:0;
+transition: all .5s ease;
+}
+.prod-box:hover .prod-trans{
+  opacity: 1;
+  transition: all .5s ease
+}
+.prod-featuer{
+  text-align: center;
+  margin-top: -150;
+  transition: all .5s ease;
+}
+.prod-featuer p{
+  color: 150px;
+  font-family: verdana;
+}
+.prod-box:hover .prod-featuer{
+  margin-top: 150px;
+  transition: all .5s ease;
+}
+.prod-box:hover input{
+  weight:150px;
+  height: 35px;
+  font-size:17px;
+}
+.prod-container{
+margin-top: 150px;
+margin-left: 100px;
+margin-left: 200px;
+}
+.header{
+    background-color:var(--secndary_color);
+    font-style: normal;
+    text-align: center;
+    color:var(--primary-color);
+    height: 40px;
+    margin-top: 60px;
+    font-size: 30px;
+
+}
+.pragraph{
+  text-align:center;
+  font-size: 60px;
+  color:var(--secndary_color);
+  margin-top: 150px;
+}
+}
