@@ -35,14 +35,15 @@
   <div class="up">
     <center> <br>
     ادخل اسم المستخدم
-    <form action="login.php" method="post">
-    <input type="text" name="user"><br>
+    <form action="db.php" method="post">
+    <input type="text" name="username" required><br>
     ادخل كلمه المرور
     <br>
-    <input type="password" name="pass"><br><br>
-    <input type="submit" name="submit" value="submit">
+    <input type="password" name="password"  required><br><br>
     ادخل البريد الالكتروني
-    <input type="email" name="" value="">
+    <input type="email" name="email"  placeholder="example@gamie.com" required>
+    <br>
+    <input type="submit" name="submit" value="submit">
       </center>
   </div>
 </form>
