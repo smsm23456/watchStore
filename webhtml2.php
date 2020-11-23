@@ -1,3 +1,4 @@
+<?php include('db.php') ?>
 <!DOCTYPE html>
 <html lang="en" dir="rtl">
   <head>
@@ -32,20 +33,44 @@
     </div>
       </div>
 
-  <div class="up">
-    <center> <br>
-    ادخل اسم المستخدم
-    <form action="db.php" method="post">
-    <input type="text" name="username" required><br>
-    ادخل كلمه المرور
+
     <br>
-    <input type="password" name="password"  required><br><br>
-    ادخل البريد الالكتروني
-    <input type="email" name="email"  placeholder="example@gamie.com" required>
-    <br>
-    <input type="submit" name="submit" value="submit">
-      </center>
-  </div>
-</form>
+
+<div class="enter">
+  <center>
+    <div class="Register">
+  <h2> ادخل بياناتك</h2>
+</div>
+        <form method="post" action="webhtml2s.php">
+          <div class="input">
+      <label>Full_Name</label>
+    <input type="text" name="name"  value="<?php echo $name?>">
+          </div>
+              <div class="input">
+              <label>User_Name</label>
+      			<input type="text" name="username"  value="<?php echo $username?>">
+                  </div>
+      		 <div class="input">
+      			<label>E_Mail</label>
+      			<input type="email" name="email"  value="<?php echo $email?>">
+              </div>
+                    <div class="input">
+              <label>Password</label>
+      			<input type="password" name="password_1"  value="<?php echo $password?>">
+            </div>
+                         <div class="input">
+      		<label>Re_Password</label>
+      			<input type="password" name="password_2" >
+              </div>
+              <div>
+              <button type="submit"class="btn" name="reg_user">Register</button>
+      		</div>
+      		<p>
+      			   Have Acount?<a href="webhtml.php">Login</a>
+      		</p>
+      	</form>
+        <center>
+</div>
+
   </body>
 </html>
