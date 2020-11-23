@@ -11,7 +11,7 @@
         <nav>
         <ul class="navbar">
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml.html">الرئيسة</a>
+<a class="navbar-link" href="webhtml.php">الرئيسة</a>
         </li>
         <li class="navbar-item">
 <a class="navbar-link" href="#">تسجيل الدخول</a>
@@ -42,6 +42,7 @@
   <h2> ادخل بياناتك</h2>
 </div>
         <form method="post" action="webhtml2.php">
+          <?php include('weberrors.php'); ?>
           <div class="input">
       <label>Full_Name</label>
     <input type="text" name="name"  value="<?php echo $name?>">
@@ -66,11 +67,22 @@
               <button type="submit"class="btn" name="reg_user">Register</button>
       		</div>
       		<p>
-      			   Have Acount?<a href="webhtml.php">Login</a>
+      			   Have Acount?<a href="login.php">Login</a>
       		</p>
       	</form>
         <center>
 </div>
+<div class="footer">
+    <div class="footer-center" dir="ltr" >
+        <br></br>
+    <p id="p">“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”</p>
+    </div>
+    <div class="footerT" >
+<a id="a"href="mailto:rafaalmohimeed@gmail.com" target="_blank">تواصل معنا عبر الايميل </a>
+<br></br>
+
+<a id="a"href="https://wa.me/+966544378776" target="_blank">تواصل معنا عبر واتساب</a>
+    </div>
 
   </body>
 </html>

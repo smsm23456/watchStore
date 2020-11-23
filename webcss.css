@@ -145,6 +145,49 @@ border-radius:5px;
     font-size:16px;
     border: 4px solid #5F9EA0;
     margin:55px;
-    
+
 }
+.error {
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: right;
+}
+
+.success {
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+.footer{
+    background-color:#555555;
+    border:#d9e4dd 5px solid;
+    }
+.footerT{
+text-decoration:none;
+text-align: center;
+font-size: xx-large;
+
+}
+#p{
+color: #cdc9c3;
+text-align: center;
+text-decoration: none;
+font-family: courier;
+}
+footerT a{
+  color: #cdc9c3;
+  text-align: center;
+  text-decoration: none;
+  font-family: courier;
+
+}
+a:hover{
+    color: #d9e4dd;
+
 }

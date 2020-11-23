@@ -30,11 +30,21 @@
     <div class="header"
       <p>الرئيسة</p>
     </div>
-      </div>
 <div class="pragraph">
   <p>من هنا يبدأ الوقت<br>
- نجعل الوقت واضحاً بدمج التراث الحاضر و المستقبل </p>
+ نجعل الوقت واضحاً بدمج التراث الحاضر و المستقبل </p></div>
 
-</div>
+ <div class="footer">
+     <div class="footer-center" dir="ltr" >
+         <br></br>
+     <p id="p">“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”</p>
+     </div>
+     <div class="footerT" >
+ <a href="mailto:rafaalmohimeed@gmail.com" target="_blank">تواصل معنا عبر الايميل </a>
+ <br></br>
+
+ <a href="https://wa.me/+966544378776" target="_blank">تواصل معنا عبر واتساب</a>
+     </div>
+
   </body>
 </html>
