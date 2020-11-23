@@ -41,7 +41,7 @@
     <div class="Register">
   <h2> ادخل بياناتك</h2>
 </div>
-        <form method="post" action="webhtml2s.php">
+        <form method="post" action="webhtml2.php">
           <div class="input">
       <label>Full_Name</label>
     <input type="text" name="name"  value="<?php echo $name?>">

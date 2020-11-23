@@ -4,7 +4,7 @@ session_start();
 	$username= "";
   $password="";
 	$email= "";
-	$con = mysqli_connect("localhost","root","","watch");
+	$db = mysqli_connect("localhost","root","","watch");
 	if (isset($_POST['reg_user'])) {
 
 

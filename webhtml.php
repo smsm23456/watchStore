@@ -13,7 +13,7 @@
 <a class="navbar-link" href="#"> الرئيسة</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml2.html">تسجيل الدخول</a>
+<a class="navbar-link" href="webhtml2.php">تسجيل الدخول</a>
         </li>
         <li class="navbar-item">
 <a class="navbar-link" href="webhtml3.html">ساعات نسائية</a>
