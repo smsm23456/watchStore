@@ -48,15 +48,15 @@
           </div>
               <div class="input">
               <label>User_Name</label>
-      			<input type="text" name="username"  value="<?php echo $username?>">
+      			<input type="text" name="username"  value="<?php echo $username; ?>">
                   </div>
       		 <div class="input">
       			<label>E_Mail</label>
-      			<input type="email" name="email"  value="<?php echo $email?>">
+      			<input type="email" name="email"  value="<?php echo $email; ?>">
               </div>
                     <div class="input">
               <label>Password</label>
-      			<input type="password" name="password_1"  value="<?php echo $password?>">
+      			<input type="password" name="password_1"  value="<?php echo $password; ?>">
             </div>
                          <div class="input">
       		<label>Re_Password</label>
