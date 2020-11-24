@@ -6,8 +6,7 @@
     <link rel="stylesheet" href="webcss.css">
   </head>
   <body>
-    <div class="<container">
-
+    <div class="container">
       <nav>
         <ul class="navbar">
         <li class="navbar-item">
@@ -31,6 +30,7 @@
         <p>الساعات النسائية</p>
       </div>
       </div>
+
 
     <div class="prod-container">
       <div class="prod-box">
@@ -124,6 +124,7 @@
 </div>
 </div>
   </div>
+
   <div class="footer">
       <div class="footer-center" dir="ltr" >
           <br></br>
@@ -135,5 +136,6 @@
 
   <a id="a"href="https://wa.me/+966544378776" target="_blank">تواصل معنا عبر واتساب</a>
       </div>
+    </div>
   </body>
 </html>

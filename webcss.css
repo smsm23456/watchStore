@@ -96,7 +96,9 @@ transition: all .5s ease;
 .prod-container{
 margin-top: 150px;
 margin-left: 100px;
-margin-left: 200px;
+margin-right: 100px;
+margin-bottom: 550px;
+padding-bottom: 500px;
 }
 .header{
     background-color:var(--secndary_color);
@@ -167,12 +169,12 @@ border-radius:5px;
 .footer{
     background-color:#555555;
     border:#d9e4dd 5px solid;
+
     }
 .footerT{
 text-decoration:none;
 text-align: center;
 font-size: xx-large;
-
 }
 
 #a{
