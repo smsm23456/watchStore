@@ -17,10 +17,10 @@
 <a class="navbar-link" href="#">تسجيل الدخول</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml3.html">ساعات نسائية</a>
+<a class="navbar-link" href="webhtml3.php">ساعات نسائية</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml4.html">ساعات رجالية</a>
+<a class="navbar-link" href="webhtml4.php">ساعات رجالية</a>
         </li>
         </ul>
       </nav>
@@ -72,17 +72,17 @@
       	</form>
         <center>
 </div>
-<div class="footer">
-    <div class="footer-center" dir="ltr" >
-        <br></br>
-    <p id="p">“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”</p>
-    </div>
-    <div class="footerT" >
-<a id="a"href="mailto:rafaalmohimeed@gmail.com" target="_blank">تواصل معنا عبر الايميل </a>
-<br></br>
 
-<a id="a"href="https://wa.me/+966544378776" target="_blank">تواصل معنا عبر واتساب</a>
-    </div>
+    <div class="footer">
+        <div class="footer-center" dir="ltr" >
+            <br></br>
+        <p id="a">“Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”</p>
+        </div>
+        <div class="footerT" >
+    <a id="a"href="mailto:rafaalmohimeed@gmail.com" target="_blank">تواصل معنا عبر الايميل </a>
+    <br></br>
 
+    <a id="a"href="https://wa.me/+966544378776" target="_blank">تواصل معنا عبر واتساب</a>
+        </div>
   </body>
 </html>

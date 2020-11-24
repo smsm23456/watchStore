@@ -174,13 +174,8 @@ text-align: center;
 font-size: xx-large;
 
 }
-#p{
-color: #cdc9c3;
-text-align: center;
-text-decoration: none;
-font-family: courier;
-}
-footerT a{
+
+#a{
   color: #cdc9c3;
   text-align: center;
   text-decoration: none;

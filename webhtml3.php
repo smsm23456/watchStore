@@ -20,7 +20,7 @@
 <a class="navbar-link" href="#">ساعات نسائية</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml4.html">ساعات رجالية</a>
+<a class="navbar-link" href="webhtml4.php">ساعات رجالية</a>
         </li>
         </ul>
       </nav>

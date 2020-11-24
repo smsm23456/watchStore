@@ -17,10 +17,10 @@
 <a class="navbar-link" href="webhtml2.php">تسجيل الدخول</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="#">ساعات نسائية</a>
+<a class="navbar-link" href="webhtml3.php">ساعات نسائية</a>
         </li>
         <li class="navbar-item">
-<a class="navbar-link" href="webhtml4.html">ساعات رجالية</a>
+<a class="navbar-link" href="#">ساعات رجالية</a>
         </li>
         </ul>
       </nav>
@@ -28,13 +28,13 @@
       <img src="https://e.top4top.io/p_17828ik380.png" alt="logo" height="300">
       </div>
       <div class="header"
-        <p>الساعات النسائية</p>
+        <p>الساعات الرجالية</p>
       </div>
       </div>
 
     <div class="prod-container">
       <div class="prod-box">
-        <img class="product-image-photo" src="https://a.top4top.io/p_1782h1r1r0.jpeg" width="270" height="270" alt="ساعة نسائيه 1">
+        <img class="product-image-photo" src="https://k.top4top.io/p_1783607jk0.jpeg" width="270" height="270" alt="ساعة رجالية8">
   <div class="prod-trans">
 <div class="prod-featuer">
   <p style ="color:#206a5d;font-weight:bold">رقم المودل:6765</p>
@@ -44,7 +44,7 @@
     </div>
   </div>
   <div class="prod-box">
-    <img class="product-image-photo" src="https://a.top4top.io/p_17820sz950.jpeg" width="270" height="270" alt="ساعة نسائية 2">
+    <img class="product-image-photo" src="https://g.top4top.io/p_1783d6kxl0.jpeg" width="270" height="270" alt="ساعة نرجالية7">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:1256</p>
@@ -54,7 +54,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://i.top4top.io/p_1782jlf5s0.jpeg" width="270" height="270" alt="ساعة نسائية3">
+  <img class="product-image-photo" src="https://b.top4top.io/p_1783mzxhw0.jpeg" width="270" height="270" alt="ساعة رجالية6">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:2387</p>
@@ -64,7 +64,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://d.top4top.io/p_17829g9j80.jpeg" width="270" height="270" alt="ساعة نسائية4">
+  <img class="product-image-photo" src="https://a.top4top.io/p_1783zybbk0.jpeg" width="270" height="270" alt="ساعة رجالية5">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:4805</p>
@@ -74,7 +74,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://d.top4top.io/p_17823o9390.jpeg" width="270" height="270" alt="ساعة نسائية5">
+  <img class="product-image-photo" src="https://f.top4top.io/p_1783icqvs3.jpeg" width="270" height="270" alt="ساعة رجالية4">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:4983</p>
@@ -84,7 +84,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://c.top4top.io/p_17828xvh20.jpeg" width="270" height="270" alt="ساعة نسائية6">
+  <img class="product-image-photo" src="https://f.top4top.io/p_17831vcke1.jpeg" width="270" height="270" alt="ساعة رجالية3">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:3951</p>
@@ -94,7 +94,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://b.top4top.io/p_1782kczke0.jpeg" width="270" height="270" alt="ساعة نسائية7">
+  <img class="product-image-photo" src="https://e.top4top.io/p_17839ahgm4.jpeg" width="270" height="270" alt="ساعة رجالية2">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:4893</p>
@@ -104,7 +104,7 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://d.top4top.io/p_1782yqw380.jpeg" width="270" height="270" alt="ساعة نسائية8">
+  <img class="product-image-photo" src="https://e.top4top.io/p_17837cytd5.jpeg" width="270" height="270" alt="ساعة رجالية1">
 <div class="prod-trans">
 <div class="prod-featuer">
 <p style ="color:#206a5d;font-weight:bold">رقم المودل:4532</p>
@@ -114,11 +114,11 @@
 </div>
 </div>
 <div class="prod-box">
-  <img class="product-image-photo" src="https://f.top4top.io/p_1783dtpv40.jpeg" width="270" height="270" alt="ساعة نسائية9">
+  <img class="product-image-photo" src="https://b.top4top.io/p_1783u8z1t0.jpeg" width="270" height="270" alt="ساعة رجالية9">
 <div class="prod-trans">
 <div class="prod-featuer">
-<p style ="color:#206a5d;font-weight:bold">رقم المودل:4672</p>
-<p style="color:#206a5d;font-weight:bold;">السعر:280رس</p>
+<p style ="color:#206a5d;font-weight:bold">رقم المودل:1984</p>
+<p style="color:#206a5d;font-weight:bold;">السعر:350رس</p>
 <input type="button" name="" value="اضف الى السلة">
 </div>
 </div>
