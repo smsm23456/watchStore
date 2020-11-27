@@ -21,6 +21,9 @@
         <li class="navbar-item">
 <a class="navbar-link" href="webhtml4.php">ساعات رجالية</a>
         </li>
+        <il class="navbar-item">
+ <a class="navbar-link" href="webhtml5.php">سلة التسوق </a>
+</il>
         </ul>
       </nav>
       <div class="logo">
